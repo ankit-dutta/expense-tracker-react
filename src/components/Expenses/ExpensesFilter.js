@@ -6,8 +6,6 @@ const ExpenseFilter = (props) => {
         props.ChangeFilter(event.target.value)
     }
 
-
-
     
 return (
       <>
